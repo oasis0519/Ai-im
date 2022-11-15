@@ -1,0 +1,1 @@
+1.Service Vic said that sometimes they scan a document and it always says success. (i.e photo of pen or desk etc) it does not detect invalid doc. Can you make sure this is fixed in your next release 
